@@ -1,2 +1,0 @@
-# ReactFormToList
-Created with CodeSandbox
